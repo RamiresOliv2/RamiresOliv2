@@ -1,13 +1,19 @@
-## sou ramires2
+<h1 align="center">sou ramires2</h1>
 
-uma outra conta da conta que você imagina. Só tire o 2 do RamiresOliv e veja onde você vai parar.
 
-pq fazer oque você gosta quando você tem trabalho da escola pra fazer?
+### contexto:
+uma outra conta da conta que você imagina. Só tire o 2 do RamiresOliv e veja onde você vai parar.<br>
+eu uso essa conta para fins escolares.
 
-to sem ideia pra fazer um perfil legal perdão
+### filososofisolia
+pq fazer oque você gosta quando você tem trabalho da escola pra fazer? 😭
 
-Sou usuario de ESP32-S3C1 e MK-TM4C123G.
-😭
+### habilidades
+Programo em Python, Javascript, c++, ruby, lua...<br>
+Sou usuário de ESP32-S3C1 e MK-TM4C123G.<br>
+Posso ser considerado avançado no que eu faço
+
+_to sem ideia pra fazer um perfil legal perdão_
 
 <!--
 **RamiresOliv2/RamiresOliv2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
