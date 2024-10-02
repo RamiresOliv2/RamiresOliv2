@@ -1,4 +1,13 @@
-## Hi there 👋
+## sou ramires2
+
+uma outra conta da conta que você imagina. Só tire o 2 do RamiresOliv e veja onde você vai parar.
+
+pq fazer oque você gosta quando você tem trabalho da escola pra fazer?
+
+to sem ideia pra fazer um perfil legal perdão
+
+Sou usuario de ESP32-S3C1 e MK-TM4C123G.
+😭
 
 <!--
 **RamiresOliv2/RamiresOliv2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
