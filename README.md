@@ -1,11 +1,11 @@
-<h1 align="center">sou ramires2</h1>
+<a href="https://github.com/RamiresOliv2"> <img src="https://media1.tenor.com/m/EipNNmMIM5QAAAAC/helluva-boss-helluva.gif" alt="cate (oops)" min-width="400px" max-width="400px" width="400px" align="right"> </a>
+mim ser ramires 🥺
 
-
-### contexto:
 uma outra conta da conta que você imagina. Só tire o 2 do RamiresOliv e veja onde você vai parar.<br>
-eu uso essa conta para fins escolares.
+eu uso essa conta para fins escolares. 🐱
 
-### filososofisolia
+<font align="left">
+<h3>filososofisolia</h3>
 pq fazer oque você gosta quando você tem trabalho da escola pra fazer? 😭
 
 ### habilidades
@@ -15,17 +15,4 @@ Posso ser considerado avançado no que eu faço
 
 _to sem ideia pra fazer um perfil legal perdão_
 
-<!--
-**RamiresOliv2/RamiresOliv2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+</font>
